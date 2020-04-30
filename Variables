@@ -1,0 +1,9 @@
+var can be defined and assigned multiple times :
+ex:
+var name = ranak;
+name = ashik;
+var name = saki;
+
+
+at this moment , name = saki .
+So beware of var ,(declaring multiple times in a single scope)
