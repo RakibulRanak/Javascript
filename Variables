@@ -6,6 +6,8 @@ var name = saki;
 
 
 at this moment , name = saki .
+also,
+var is function scoped as well as let and const, but it is not { } scoped;
 So beware of var ,(declaring multiple times in a single scope)
 
 let
