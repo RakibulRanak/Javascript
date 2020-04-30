@@ -7,3 +7,12 @@ var name = saki;
 
 at this moment , name = saki .
 So beware of var ,(declaring multiple times in a single scope)
+
+let
+-----
+
+let can be defined once but assigned multiple time
+
+const
+-----
+const can be defined and assigned once only
